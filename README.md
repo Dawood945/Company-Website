@@ -1,12 +1,72 @@
-# React + Vite
+# Company Portfolio Website 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🎯 Overview
+Professional company showcase built with **React 18 + Vite + Tailwind CSS**. Features Home, About, Services, Gallery, Team, and Contact pages. Responsive design with team photos (Elon Musk, Sundar Pichai, etc.) and image gallery.
 
-Currently, two official plugins are available:
+**Live Demo**: https://dawood945.github.io/Company-Website/  
+**Repo**: https://github.com/Dawood945/Company-Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- 📱 **Fully Responsive**: Mobile-first design
+- 👥 **Team Showcase**: Executive profiles with images
+- 🖼️ **Image Gallery**: Business & product photos
+- ⚡ **Fast Performance**: Vite HMR + optimized assets
+- 🎨 **Modern UI**: Tailwind CSS utilities
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
+| Tool | Purpose |
+|------|---------|
+| React 18 | Components & State |
+| Vite | Build/Dev Server |
+| Tailwind CSS | Styling |
+| ESLint | Code Quality |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📁 Structure
+```
+company/
+├── public/          # Static images
+├── src/
+│   ├── Company/     # Pages: Home, AboutUs, Services...
+│   ├── assets/      # 20+ images (team, gallery)
+│   └── App.jsx      # Main Router
+├── tailwind.config.js
+└── vite.config.js
+```
+
+## 🚀 Quick Start
+```bash
+git clone https://github.com/Dawood945/Company-Website.git
+cd company
+npm install
+npm run dev  # http://localhost:5173
+```
+
+**Production Build**:
+```bash
+npm run build
+npm run preview
+```
+
+## 📱 Preview
+| Home | Team | Gallery |
+|------|------|---------|
+| ![Home](https://via.placeholder.com/400x250/3B82F6/FFFFFF?text=Hero) | ![Team](https://via.placeholder.com/400x250/10B981/FFFFFF?text=Team) | ![Gallery](https://via.placeholder.com/400x250/F59E0B/FFFFFF?text=Gallery) |
+
+## 🔧 Customization
+- **Content**: Edit `src/Company/*.jsx`
+- **Styles**: `tailwind.config.js` + `index.css`
+- **Images**: `src/assets/` & `public/`
+- **Pages**: Add to `App.jsx`
+
+## 🤝 Contributing
+1. Fork & clone
+2. `npm install`
+3. `git checkout -b feature/xyz`
+4. Commit → PR
+
+## 📄 License
+MIT License
+
+---
+⭐ **Thanks for starring!** Built with ❤️ for modern portfolios.
+
