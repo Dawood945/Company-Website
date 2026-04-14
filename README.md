@@ -48,13 +48,21 @@ npm run preview
 ```
 
 ## 📱 Preview
-| Home | Team | Gallery | About Us | Our Services |
-|------|------|---------|
-| <img width="1844" height="883" alt="image" src="https://github.com/user-attachments/assets/f966658a-8bc4-45d1-bc3e-6840dc3292b2" />
-| <img width="1839" height="880" alt="image" src="https://github.com/user-attachments/assets/95d9c0e0-2c2b-4b8c-9916-e0645fd907d1" />
-| <img width="1749" height="582" alt="image" src="https://github.com/user-attachments/assets/6a18f38c-3271-4511-b121-3e059c44b341" />
-| <img width="1661" height="574" alt="image" src="https://github.com/user-attachments/assets/0da6d142-14c5-4a69-9a21-c512c4ee1c87" />
-| <img width="1776" height="751" alt="image" src="https://github.com/user-attachments/assets/d456bd06-950e-44d3-826f-47ed64623f62" />
+
+# Home
+<img width="1844" height="883" alt="image" src="https://github.com/user-attachments/assets/f966658a-8bc4-45d1-bc3e-6840dc3292b2" />
+
+# Team
+<img width="1839" height="880" alt="image" src="https://github.com/user-attachments/assets/95d9c0e0-2c2b-4b8c-9916-e0645fd907d1" />
+
+# Gallery
+<img width="1749" height="582" alt="image" src="https://github.com/user-attachments/assets/6a18f38c-3271-4511-b121-3e059c44b341" />
+
+# Our Services
+<img width="1661" height="574" alt="image" src="https://github.com/user-attachments/assets/0da6d142-14c5-4a69-9a21-c512c4ee1c87" />
+
+# About US
+<img width="1776" height="751" alt="image" src="https://github.com/user-attachments/assets/d456bd06-950e-44d3-826f-47ed64623f62" />
 
 ## 🔧 Customization
 - **Content**: Edit `src/Company/*.jsx`
