@@ -1,10 +1,8 @@
 # Company Portfolio Website 🚀
 
 ## 🎯 Overview
-Professional company showcase built with **React 18 + Vite + Tailwind CSS**. Features Home, About, Services, Gallery, Team, and Contact pages. Responsive design with team photos (Elon Musk, Sundar Pichai, etc.) and image gallery.
+Professional company showcase built with **React 18 + Vite + Tailwind CSS**. Features Home, About, Services, Gallery, Team, and Contact pages. Responsive design with team photos and image gallery.
 
-**Live Demo**: https://dawood945.github.io/Company-Website/  
-**Repo**: https://github.com/Dawood945/Company-Website
 
 ## ✨ Features
 - 📱 **Fully Responsive**: Mobile-first design
@@ -58,10 +56,10 @@ npm run preview
 # Gallery
 <img width="1749" height="582" alt="image" src="https://github.com/user-attachments/assets/6a18f38c-3271-4511-b121-3e059c44b341" />
 
-# Our Services
+# About Us
 <img width="1661" height="574" alt="image" src="https://github.com/user-attachments/assets/0da6d142-14c5-4a69-9a21-c512c4ee1c87" />
 
-# About US
+# Our Services
 <img width="1776" height="751" alt="image" src="https://github.com/user-attachments/assets/d456bd06-950e-44d3-826f-47ed64623f62" />
 
 ## 🔧 Customization
@@ -69,15 +67,6 @@ npm run preview
 - **Styles**: `tailwind.config.js` + `index.css`
 - **Images**: `src/assets/` & `public/`
 - **Pages**: Add to `App.jsx`
-
-## 🤝 Contributing
-1. Fork & clone
-2. `npm install`
-3. `git checkout -b feature/xyz`
-4. Commit → PR
-
-## 📄 License
-MIT License
 
 ---
 ⭐ **Thanks for starring!** Built with ❤️ for modern portfolios.
